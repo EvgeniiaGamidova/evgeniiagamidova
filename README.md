@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Header](https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif)
 <!--
 **EvgeniiaGamidova/evgeniiagamidova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
