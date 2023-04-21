@@ -11,9 +11,10 @@
 ### 🤝 Connect with me:
 
   <div id="badges">
-  <a href="https://instagram.com/zhenyagamidova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="40"/></a>
+  <a href="https://instagram.com/zhenyagamidova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="40" width="50"/></a>
   <a href="https://t.me/EvgeniiaGamidova" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg"
- height="30" width="40"></a>
+ height="40" width="50"></a>
+  <a href="https://twitter.com/zhenyagamidova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="50" /></a>
    </div>
   
 ### 💻 Codewars:
