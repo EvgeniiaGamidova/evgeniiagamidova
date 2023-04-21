@@ -1,7 +1,13 @@
-### Hi there 👋
-![Header](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
 
+<div id="header" align="center">
+  <h1>
+    Hi there 👋
+  </h1> 
+  <img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp" width="100"/>
+  <div id="badges">
+    
 ## I`m  a beginner Software Engeneer
+    
 ### 🤝 Follow me:
 
   <div id="badges">
