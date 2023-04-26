@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h1>
-    Hi there 👋
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=29&pause=1000&color=FFFFFFF3&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&height=60&lines=Hi+there!+I'm+Zhenya+%F0%9F%91%8B" alt="Typing SVG" /></a>
   </h1> 
   <img src="https://i.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp" width="100"/>
   <div id="badges">
